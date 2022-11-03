@@ -769,7 +769,7 @@ color:var(--white-text-color);
   color: var(--title-text-color);
   background-color: var(--bg-filters-btn);
   cursor: pointer;
-  transition-property: color, background-color;
+  transition-property: color, background-color, box-shadow;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
